@@ -16,6 +16,8 @@
 
                     <li class="nav-item"><a class="nav-link" href="about">About</a></li>
 
+                    <li class="nav-item"><a class="nav-link" href="our-founder">Our Founder</a></li>
+
 					<li class="nav-item dropdown">
 						<a class="nav-link dropdown-toggle" href="#" id="brandsMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Brands</a>
 						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="brandsMenu" >

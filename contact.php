@@ -1,4 +1,5 @@
 <?php
+$page = "Contact";
 include "./components/header.php";
 include "./components/navbar-alt.php";
 ?>
@@ -9,7 +10,7 @@ include "./components/navbar-alt.php";
             <div class="row d-flex justify-content-lg-between">
                 <div class="col-12">
                     <h1 class="display-3 caret-primary">
-                        <span class="typed" data-type-text="Hello&&Bonjour&&Asalaam alaikum&&Guten Tag&&Hola&&Zdravstvuyte"></span>
+                        <span class="typed" data-type-text="Hello&&Bonjour&&Hola&&你好&&Hallo&&Olá&&Ciao&&Asalaam alaikum&&Guten Tag&&Zdravstvuyte"></span>
                     </h1>
                     <a href="#" class="display-8 text-dark"><u>hello@eritageafrica.com</u></a><br>
                     <a href="#" class="display-8 text-dark">+234 810-760-1636</a>

@@ -4,11 +4,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="Eritage Africa is a leading creative media agency with over 8 years experience in promoting positive narratives that highlight the rich culture, diversity, and beauty of Africa.">
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Niger Delta, Creative Media Company in Nigeria, Face Nigeria Magazine, Eritage, Eritage Africa, Gift shop in Port Harcourt, Tourism in Nigeria, African Media Tourism">
     <meta name="author" content="webify.com.ng">
     <title>Eritage Africa&trade; :: unleashing African creativity</title>
 
-	<link rel="shortcut icon" href="assets/images/favicon.ico">
+	<link rel="shortcut icon" href="assets/images/eritage-favicon.png">
 
 	<link href="https://fonts.googleapis.com/css2?family=Reenie+Beanie&amp;family=Rubik:wght@400;500;700&amp;family=Spartan:wght@400;700;900&amp;display=swap" rel="stylesheet">
 
@@ -26,6 +26,7 @@
 
 <div class="preloader">
 	<div class="preloader-item">
-		<div class="spinner-border"></div>
+		<div class="spinner-grow text-primary"></div>
+		<p class="mt-3">Good things come to those who wait!</p>
 	</div>
 </div>

@@ -553,11 +553,10 @@ About Fun fact START -->
 		</div>
 	</div>
 </section>
-<!-- =======================
-About Fun fact END -->
+
+    <?php include "./components/cta.php"; ?>
 
 </main>
-<!-- **************** MAIN CONTENT END **************** -->
 
 <?php
 include "./components/footer.php";
