@@ -81,7 +81,7 @@ include "./components/navbar.php";
         </div>
     </section>
 
-    <section class="mb-7">
+    <section class="mb-5">
         <div class="container">
             <div class="row d-flex justify-content-lg-between align-items-center">
                 <div class="col-lg-5">
