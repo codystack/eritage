@@ -1,4 +1,5 @@
 <?php
+$page = "Home";
 include "./components/header.php";
 include "./components/navbar.php";
 ?>
@@ -80,7 +81,7 @@ About START -->
 				<!-- Image -->
 				<div class="reveal-item bg-light rounded" data-aos="reveal-item">
 					<div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-					<img class="rounded w-100" src="assets/images/about/06.jpg" alt="Portfolio image">
+					<img class="rounded w-100" src="assets/images/officialpic.jpg" alt="Portfolio image">
 				</div>
 				<!-- Text -->
 				<div class="mt-n6 ms-3 position-relative z-index-9">

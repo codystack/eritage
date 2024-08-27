@@ -12,11 +12,19 @@
 			<div class="collapse navbar-collapse" id="navbarCollapse">
 				<ul class="navbar-nav navbar-nav-scroll mx-auto">
 
-                    <li class="nav-item"><a class="nav-link <?php if($page=='About'){echo 'active';}?>" href="about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="our-founder">Our Founder</a></li>
+                    <li class="nav-item"><a class="nav-link <?php if($page=='Home'){echo 'active';}?>" href="./">Home</a></li>
+
+                    <li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle <?php if($page=='About' || 'Founder'){echo 'active';}?>" href="#" id="projectsMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">The Company</a>
+						<ul class="dropdown-menu" aria-labelledby="projectsMenu">
+							<li> <a class="dropdown-item <?php if($page=='About'){echo 'active';}?>" href="about">About Eritage Africa</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Founder'){echo 'active';}?>" href="our-founder">Our Founder</a></li>
+						</ul>
+					</li>
+
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="demosMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Demos</a>
-						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="demosMenu" >
+						<a class="nav-link dropdown-toggle" href="#" id="brandsMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Brands</a>
+						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="brandsMenu" >
 							<div class="d-block d-sm-flex">
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
 									<li class="dropdown-header">Agency Demos</li>
@@ -47,105 +55,17 @@
 						</div>
 					</li>
 					
-					<!-- Menu item 2 Pages -->
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="pagesMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+						<a class="nav-link dropdown-toggle" href="#" id="pagesMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Projects</a>
 						<ul class="dropdown-menu" aria-labelledby="pagesMenu">
-							<!-- About menu -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">About</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="about.html">About Classic</a></li>
-									<li> <a class="dropdown-item" href="about-advance.html">About advance</a></li>
-									<li> <a class="dropdown-item" href="about-agency.html">About agency</a></li>
-									<li> <a class="dropdown-item" href="approach.html">Approach</a></li>
-									<li> <a class="dropdown-item" href="mission-and-vision.html">Mission and vision</a></li>
-									<li> <a class="dropdown-item" href="history.html">history</a></li>
-									<li> <a class="dropdown-item" href="testimonials.html">Testimonials</a></li>
-									<li> <a class="dropdown-item" href="why-choose-us.html">Why choose us</a></li>
-									<li> <a class="dropdown-item" href="team.html">team</a></li>
-									<li> <a class="dropdown-item" href="careers.html">careers</a></li>
-									<li> <a class="dropdown-item" href="careers-single.html">careers single</a></li>
-								</ul>
-							</li>
-							<!-- Hero sections menu -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Hero sections<span class="badge bg-danger ms-2">New</span></a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li><a class="dropdown-item" href="hero-01.html">Hero form</a></li>
-									<li><a class="dropdown-item" href="hero-02.html">Big title & video</a></li>
-									<li><a class="dropdown-item" href="hero-03.html">Split banner</a></li>
-									<li><a class="dropdown-item" href="hero-04.html">Video & company info</a></li>
-									<li><a class="dropdown-item" href="hero-05.html">Vector graphics</a></li>
-									<li><a class="dropdown-item" href="hero-06.html">Typography intro</a></li>
-									<li><a class="dropdown-item" href="hero-07.html">Overlap text</a></li>
-									<li><a class="dropdown-item" href="hero-08.html">Device mockup</a></li>
-									<li><a class="dropdown-item" href="hero-09.html">Split overlay</a></li>
-									<li><a class="dropdown-item" href="hero-10.html">Showcase typography</a></li>
-								</ul>
-							</li>
-							<li> <a class="dropdown-item" href="service.html">service</a></li>
-							<li> <a class="dropdown-item" href="service-detail.html">Service detail</a></li>
-							<!-- Blog menu -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Blog<span class="badge bg-success ms-2">2 new post</span></a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li><a class="dropdown-item" href="blog-classic-3-col.html">Blog classic 3 col</a></li>
-									<li><a class="dropdown-item" href="blog-metro-3-col.html">Blog metro 3 col</a></li>
-									<li><a class="dropdown-item" href="blog-minimal.html">Blog minimal <span class="badge bg-success ms-2">2 new post</span></a></li>
-									<li><a class="dropdown-item" href="blog-text-reveal.html">Blog text reveal</a></li>
-									<li class="dropdown-divider"></li>
-									<li><a class="dropdown-item" href="blog-detail.html">Blog detail</a></li>
-									<li><a class="dropdown-item" href="blog-detail-minimal.html">Blog detail minimal</a></li>
-								</ul>
-							</li>
-							<!-- About menu -->
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Contact</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="contact.html">contact</a></li>
-									<li> <a class="dropdown-item" href="contact-2.html">contact 2</a></li>
-									<li> <a class="dropdown-item" href="contact-3.html">Contact 3</a></li>
-								</ul>
-							</li>
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Authentication</a>
-								<ul class="dropdown-menu" data-bs-popper="none">
-									<li> <a class="dropdown-item" href="sign-in.html">Sign in</a> </li>
-									<li> <a class="dropdown-item" href="sign-up.html">Sign up</a> </li>
-									<li> <a class="dropdown-item" href="password-recovery.html">Password recovery</a> </li>
-								</ul>
-							</li>
-							<li> <a class="dropdown-item" href="pricing.html">pricing</a></li>
-							<li> <a class="dropdown-item" href="faq.html">faq</a></li>
-							<li> <a class="dropdown-item" href="404.html">Error 404</a></li>
-							<li> <a class="dropdown-item" href="maintenance-mode.html">maintenance mode</a></li>
-							<!-- Dropdown menu levels -->
-							<li class="dropdown-divider"></li>
-							<li class="dropdown-submenu dropend">
-								<a class="dropdown-item dropdown-toggle" href="#">Dropdown levels</a>
-								<ul class="dropdown-menu dropdown-menu-start" data-bs-popper="none">
-									<li class="dropdown-submenu dropend">
-										<a class="dropdown-item dropdown-toggle" href="#">Dropdown (end)</a>
-										<ul class="dropdown-menu" data-bs-popper="none">
-											<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-											<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-										</ul>
-									</li>
-									<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-									<li class="dropdown-submenu dropstart">
-										<a class="dropdown-item dropdown-toggle" href="#">Dropdown (start)</a>
-										<!-- dropdown menu open left -->
-										<ul class="dropdown-menu dropdown-menu-end" data-bs-popper="none">
-											<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-											<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-										</ul>
-									</li>
-									<li> <a class="dropdown-item" href="#">Dropdown item</a> </li>
-								</ul>
-							</li>
+							<li> <a class="dropdown-item <?php if($page=='TOCOPPH'){echo 'active';}?>" href="tocopph">TOCOPPH</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a></li>
 						</ul>
 					</li>
+
+                    <li class="nav-item"><a class="nav-link <?php if($page=='Services'){echo 'active';}?>" href="services">Services</a></li>
+
+                    <!-- <li class="nav-item"><a class="nav-link <?php if($page=='FAQ'){echo 'active';}?>" href="faq">FAQ's</a></li> -->
 					
 					<li class="nav-item"><a class="nav-link <?php if($page=='Contact'){echo 'active';}?>" href="contact">Contact</a></li>
 				</ul>

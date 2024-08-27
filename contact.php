@@ -1,7 +1,7 @@
 <?php
 $page = "Contact";
 include "./components/header.php";
-include "./components/navbar-alt.php";
+include "./components/navbar.php";
 ?>
 
 <main>
@@ -57,41 +57,42 @@ include "./components/navbar-alt.php";
                 <div class="col-md-6 mt-5 mt-md-0">
                     <h3>Contact us</h3>
                     <p>Get in touch with us to see how we can help you with your project</p>
-                    <!-- Form START -->
                     <form class="contact-form form-line mt-5" id="contact-form" name="contactform" method="POST" action="assets/include/contact-action.php.html">
                         <div>
-                            <!-- name -->
+                            
                             Hey, my name is
                             <span class="mb-3 d-inline-block">
                                 <input required id="con-name" name="name" type="text" class="form-control mb-0 pb-0" placeholder="">
                             </span>
-                            <!-- email -->
+                            
                             , my email address is
                             <span class="mb-3 d-inline-block">
                                 <input required id="con-email" name="email" type="email" class="form-control mb-0 pb-0" placeholder="">
                             </span>
-                            <!-- Subject -->
+                            
                             , I am contacting you regarding
                             <span class="mb-3 d-inline-block">
                                 <input required size="40"  id="con-subject" name="subject" type="text" class="form-control mb-0 pb-0" placeholder="">
                             </span>
                             .
                             <br>
-                            <!-- Message -->
+                            
                             I am looking for:
                             <span class="mb-3 d-block">
                                 <textarea required id="con-message" name="message" cols="40" rows="3" class="form-control" placeholder=""></textarea>
                             </span>
-                            <!-- submit button -->
+                            
                             <div class="text-start">
                                 <button class="btn btn-primary btn-line" type="submit">Knock up the Inbox</button>
                             </div>
                         </div>
                     </form>
                 </div> 
-            </div><!-- Row END -->
+            </div>
         </div>
     </section>
+
+    <?php include "./components/cta.php"; ?>
 
 </main>
 
