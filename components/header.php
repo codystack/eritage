@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Eritage Africa is a leading creative media agency with over 8 years experience in promoting positive narratives that highlight the rich culture, diversity, and beauty of Africa.">
+	<meta name="description" content="Eritage Africa is a proudly Niger Delta creative media agency that is committed to promoting the peace and prosperity of the region through creative expressions and innovative solutions.">
     <meta name="keywords" content="Niger Delta, Creative Media Company in Nigeria, Face Nigeria Magazine, Eritage, Eritage Africa, Gift shop in Port Harcourt, Tourism in Nigeria, African Media Tourism">
     <meta name="author" content="webify.com.ng">
     <title>Eritage Africa&trade; :: Unleashing African Creativity</title>

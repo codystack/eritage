@@ -3,9 +3,6 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Eritage Africa is a leading creative media agency with over 8 years experience in promoting positive narratives that highlight the rich culture, diversity, and beauty of Africa.">
-    <meta name="keywords" content="Niger Delta, Creative Media Company in Nigeria, Face Nigeria Magazine, Eritage, Eritage Africa, Gift shop in Port Harcourt, Tourism in Nigeria, African Media Tourism">
-    <meta name="author" content="webify.com.ng">
     <title>Error 404 :: Eritage Africa&trade;</title>
 
 	<link rel="shortcut icon" href="assets/images/eritage-favicon.png">
