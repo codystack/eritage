@@ -20,6 +20,7 @@
 						<a class="nav-link dropdown-toggle <?php if($page=='About' || $page=='Founder'){echo 'active';}?>" href="#" id="companyMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">The Company</a>
 						<ul class="dropdown-menu" aria-labelledby="companyMenu">
 							<li> <a class="dropdown-item <?php if($page=='About'){echo 'active';}?>" href="about">About Eritage Africa</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Mission & Vision'){echo 'active';}?>" href="mission-vision">Our Mission & Vision</a></li>
 							<li> <a class="dropdown-item <?php if($page=='Founder'){echo 'active';}?>" href="our-founder">Our Founder</a></li>
 						</ul>
 					</li>

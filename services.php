@@ -1,7 +1,7 @@
 <?php
 $page = "Services";
 include "./components/header.php";
-include "./components/navbar-alt.php";
+include "./components/navbar.php";
 ?>
 
 
