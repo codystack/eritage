@@ -47,6 +47,7 @@
 					<div class="list-group-inline list-unstyled text-primary-hover">
 						<a href="https://www.facebook.com/facemagazineng" class="list-group-item text-white bg-transparent"><i class="fab fa-facebook"></i></a>
 						<a href="https://www.instagram.com/eritage.africa/" class="list-group-item text-white bg-transparent"><i class="fab fa-instagram"></i></a>
+						<a href="https://www.youtube.com/@EritageAfrica" class="list-group-item text-white bg-transparent"><i class="fab fa-youtube"></i></a>
 					</div>
 				</div>
 			</div>
