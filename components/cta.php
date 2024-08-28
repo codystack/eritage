@@ -41,13 +41,13 @@
                     <div class="text-center bg-primary-multiply position-relative overflow-hidden px-3 py-6 h-100" >
                         <h2 class="mb-3 display-6"><a class="text-white-stroke" href="#">Our Work</a></h2>
                         <a class="btn btn-line text-white mb-0" href="#">View projects</a>
-                        <img class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9" src="assets/images/about/05.jpg" alt="">
+                        <img class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9" src="assets/images/projects.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-sm-6">
                     <div class="text-center bg-dark px-3 py-6 h-100">
                         <h2 class="mb-3 display-6 text-white">Have a Project?</h2>
-                        <a class="btn btn-line text-white mb-0" href="#">Get a Quote</a>
+                        <a class="btn btn-line text-white mb-0" href="contact">Get a Quote</a>
                     </div>
                 </div>
             </div>
