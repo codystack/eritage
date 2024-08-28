@@ -1,5 +1,5 @@
 <?php
-$page = "Face Magazine";
+$page = "Eritage Gift";
 include "./components/header.php";
 include "./components/offcanvas.php";
 include "./components/navbar-transparent.php";

@@ -31,12 +31,12 @@
 				</li>
 			</li>
 			<li class="nav-item display-7 h5 position-relative">
-				<a href="#" class="nav-link text-white-stroke d-block">Our Projects</a>
+				<a href="projects" class="nav-link text-white-stroke d-block <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>">Our Projects</a>
 				<a class="dropdown-toggle collapsed" data-bs-toggle="collapse" href="#projects-dropdown-collapse" role="button" aria-expanded="false" aria-controls="projects-dropdown-collapse"></a>
 				<li class="collapse" id="projects-dropdown-collapse">
 				  <ul class="nav flex-column w-100 pb-4 pe-0 pe-lg-5">
-						<li class="nav-item"> <a class="nav-link text-body" href="tocopph">TOCOPPH</a> </li>
-						<li class="nav-item"> <a class="nav-link text-body" href="and">Akwa Niger Delta</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='TOCOPPH'){echo 'active';}?>" href="tocopph">TOCOPPH</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a> </li>
 					</ul>
 				</li>
 			</li>

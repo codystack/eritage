@@ -40,7 +40,7 @@
                 <div class="col-sm-6">
                     <div class="text-center bg-primary-multiply position-relative overflow-hidden px-3 py-6 h-100" >
                         <h2 class="mb-3 display-6"><a class="text-white-stroke" href="#">Our Work</a></h2>
-                        <a class="btn btn-line text-white mb-0" href="#">View projects</a>
+                        <a class="btn btn-line text-white mb-0" href="projects">View projects</a>
                         <img class="bg-primary-multiply position-absolute top-50 start-50 translate-middle z-index-n9" src="assets/images/projects.jpg" alt="">
                     </div>
                 </div>

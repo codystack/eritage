@@ -25,22 +25,22 @@
 					</li>
 
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="brandsMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Brands</a>
+						<a class="nav-link dropdown-toggle <?php if($page=='Face Magazine' || $page=='Eritage Gift'){echo 'active';}?>" href="#" id="brandsMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Brands</a>
 						<ul class="dropdown-menu" aria-labelledby="brandsMenu">
-							<li> <a class="dropdown-item" href="face-magazine">FACE Nigeria Magazine</a></li>
-							<li> <a class="dropdown-item" href="eritage-gift">Eritage Gift Co.</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Face Magazine'){echo 'active';}?>" href="face-magazine">FACE Nigeria Magazine</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Eritage Gift'){echo 'active';}?>" href="eritage-gift">Eritage Gift Co.</a></li>
 						</ul>
 					</li>
 
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="project" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Projects</a>
+						<a class="nav-link dropdown-toggle <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>" href="projects" id="project" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Projects</a>
 						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="project" >
 							<div class="d-block d-sm-flex">
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li> <a class="dropdown-item" href="tocopph">TOCOPPH</a> </li>
+									<li> <a class="dropdown-item <?php if($page=='TOCOPPH'){echo 'active';}?>" href="tocopph">TOCOPPH</a> </li>
 								</ul>
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li> <a class="dropdown-item" href="and">Akwa Niger Delta</a> </li>
+									<li> <a class="dropdown-item <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a> </li>
 								</ul>
 							</div>
 							
