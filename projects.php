@@ -16,58 +16,58 @@ include "./components/navbar.php";
         </div>
     </section>
 
-<section class="pt-0">
-	<div class="container">
-		<div class="row g-0">
+    <section class="pt-0">
+        <div class="container">
+            <div class="row g-0">
 
-			<div class="col-md-6 mt-4 mt-lg-7">
-				<div class="card border-0 rounded-0 bg-transparent"> 
-					<div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
-						<div class="reveal-item rounded" data-aos="reveal-item">
-							<div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-							<img class="w-100" src="assets/images/tocopph-bg.jpg" alt="Portfolio image">
-						</div>
-						<div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
-							<div class="card-text mt-2 mt-md-6">
-								<h5 class="display-8 display-lg-7 text-white-stroke">TOCOPPH</h5>
-							</div>
-						</div>
-					</div>
-					<div class="card-img-overlay d-flex flex-column">
-						<div class="card-text mt-2 mt-md-6">
-							<h5 class="display-8 display-lg-7 text-dark-stroke">TOCOPPH</h5>
-							<a href="tocopph" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
-						</div>
-					</div>
-				</div>
-			</div>
-            
-			<div class="col-md-6 mt-4 mt-lg-0">
-				<div class="card border-0 rounded-0 bg-transparent">
-					<div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
-						<div class="reveal-item rounded" data-aos="reveal-item">
-							<div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-							<img class="w-100" src="assets/images/and-bg.jpg" alt="Portfolio image">
-						</div>
+                <div class="col-md-6 mt-4 mt-lg-7">
+                    <div class="card border-0 rounded-0 bg-transparent"> 
+                        <div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
+                            <div class="reveal-item rounded" data-aos="reveal-item">
+                                <div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
+                                <img class="w-100" src="assets/images/tocopph-bg.jpg" alt="Portfolio image">
+                            </div>
+                            <div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
+                                <div class="card-text mt-2 mt-md-6">
+                                    <h5 class="display-8 display-lg-7 text-white-stroke">TOCOPPH</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-img-overlay d-flex flex-column">
+                            <div class="card-text mt-2 mt-md-6">
+                                <h5 class="display-8 display-lg-7 text-dark-stroke">TOCOPPH</h5>
+                                <a href="tocopph" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 mt-4 mt-lg-0">
+                    <div class="card border-0 rounded-0 bg-transparent">
+                        <div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
+                            <div class="reveal-item rounded" data-aos="reveal-item">
+                                <div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
+                                <img class="w-100" src="assets/images/and-bg.jpg" alt="Portfolio image">
+                            </div>
+                            
+                            <div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
+                                <div class="card-text mt-2 mt-md-6">
+                                    <h5 class="display-8 display-lg-7 text-white-stroke">Akwa Niger Delta</h5>
+                                </div>
+                            </div>
+                        </div>
                         
-						<div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
-							<div class="card-text mt-2 mt-md-6">
-								<h5 class="display-8 display-lg-7 text-white-stroke">Akwa Niger Delta</h5>
-							</div>
-						</div>
-					</div>
-                    
-					<div class="card-img-overlay d-flex flex-column">
-						<div class="card-text mt-2 mt-md-6">
-							<h5 class="display-8 display-lg-7 text-dark-stroke">Akwa Niger Delta</h5>
-							<a href="and" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+                        <div class="card-img-overlay d-flex flex-column">
+                            <div class="card-text mt-2 mt-md-6">
+                                <h5 class="display-8 display-lg-7 text-dark-stroke">Akwa Niger Delta</h5>
+                                <a href="and" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <section class="bg-primary pattern-overlay-2">
