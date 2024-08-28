@@ -5,25 +5,25 @@
                 <img src="./assets/images/eritage-logo.svg" width="250" alt="logo">
 			</div>
 
-            <div class="col-md-6 col-lg-3 mb-5">
+            <div class="col-md-6 col-lg-4 mb-5">
 				<h5 class="mb-4 text-white">Useful links</h5>
 				<div class="row">
 					<div class="col-6">
 						<ul class="nav flex-column text-primary-hover">
-							<li class="nav-item"><a class="nav-link pt-0" href="#">Our Work</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Develop</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Builder</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Market</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Support</a></li>
+							<li class="nav-item"><a class="nav-link pt-0" href="projects">Projects</a></li>
+							<li class="nav-item"><a class="nav-link" href="about">About Eritage Africa</a></li>
+							<li class="nav-item"><a class="nav-link" href="mission-vision">Our Mission & Vision</a></li>
+							<li class="nav-item"><a class="nav-link" href="our-founder">Our Founder</a></li>
+							<li class="nav-item"><a class="nav-link" href="face-magazine">FACE Nigeria Magazine</a></li>
 						</ul>
 					</div>
 					<div class="col-6">
 						<ul class="nav flex-column text-primary-hover">
-							<li class="nav-item"><a class="nav-link pt-0" href="#">About</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Career <span class="badge bg-danger ms-2">2 Job</span></a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Work</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">News</a></li>
-							<li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+							<li class="nav-item"><a class="nav-link pt-0" href="eritage-gift">Eritage Gift Co.</a></li>
+							<li class="nav-item"><a class="nav-link" href="tocopph">TOCOPPH</a></li>
+							<li class="nav-item"><a class="nav-link" href="and">Akwa Niger Delta</a></li>
+							<li class="nav-item"><a class="nav-link" href="services">Services</a></li>
+							<li class="nav-item"><a class="nav-link" href="contact">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -40,11 +40,10 @@
 				<p>Call: <a href="#" class="text-body"><u>+234 810-760-1636</u> (Call/Whatsapp)</a> </p>
 			</div>
 
-            <div class="col-md-6 col-lg-3 mb-5">
+            <div class="col-md-6 col-lg-2 mb-5">
                 <h5 class="mb-4 text-white">The Company</h5>
-				<p>Through our work, we strive to not only elevate African brands and local tourism destinations but also to empower local communities and promote sustainable development.</p>
-				<div class="d-flex me-auto">
-					<h6 class="mt-2 me-4 text-white">Follow on:</h6>
+				<p>Through our work, we strive to not only elevate African brands and local tourism destinations but also to empower local communities.</p>
+				<div class="me-auto">
 					<div class="list-group-inline list-unstyled text-primary-hover">
 						<a href="https://www.facebook.com/facemagazineng" class="list-group-item text-white bg-transparent"><i class="fab fa-facebook"></i></a>
 						<a href="https://www.instagram.com/eritage.africa/" class="list-group-item text-white bg-transparent"><i class="fab fa-instagram"></i></a>

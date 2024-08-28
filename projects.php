@@ -25,7 +25,7 @@ include "./components/navbar.php";
                         <div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
                             <div class="reveal-item rounded" data-aos="reveal-item">
                                 <div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-                                <img class="w-100" src="assets/images/tocopph-bg.jpg" alt="Portfolio image">
+                                <img class="w-100" src="assets/images/tocopph-bgx.jpeg" alt="Portfolio image">
                             </div>
                             <div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
                                 <div class="card-text mt-2 mt-md-6">
@@ -47,7 +47,7 @@ include "./components/navbar.php";
                         <div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
                             <div class="reveal-item rounded" data-aos="reveal-item">
                                 <div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-                                <img class="w-100" src="assets/images/and-bg.jpg" alt="Portfolio image">
+                                <img class="w-100" src="assets/images/and.jpeg" alt="Portfolio image">
                             </div>
                             
                             <div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">

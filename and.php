@@ -6,7 +6,7 @@ include "./components/navbar-transparent.php";
 ?>
 <main>
 
-    <section class="bg-parallax bg-dark-overlay-6 h-500 vh-md-100 d-flex pb-5" style="background:url(assets/images/and-bg.jpg) no-repeat center center; background-size:cover;">
+    <section class="bg-parallax bg-dark-overlay-7 h-500 vh-md-100 d-flex pb-5" style="background:url(assets/images/and.jpeg) no-repeat center center; background-size:cover;">
         <div class="container h-100 position-relative">
             <div class="row">
                 <div class="col-12">
@@ -28,13 +28,13 @@ include "./components/navbar-transparent.php";
                     <a class="btn btn-line text-primary mb-4" href="contact">Launch a Project</a>
                 </div>
                 <div class="col-md-3 col-lg-3">
-                    <img class="rounded ms-n4" src="assets/images/and-img.jpg" alt="">
+                    <img class="rounded ms-n4" src="assets/images/and.jpeg" alt="">
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-parallax bg-dark-overlay-7 pb-9 pt-9 mb-7" style="background:url(assets/images/and-pic.jpg) no-repeat center center; background-size:cover;">
+    <section class="bg-parallax bg-dark-overlay-7 pb-9 pt-9 mb-7" style="background:url(assets/images/and.jpeg) no-repeat center center; background-size:cover;">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
