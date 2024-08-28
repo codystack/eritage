@@ -1,5 +1,5 @@
 <?php
-$page = "Eritage Gift";
+$page = "TOCOPPH";
 include "./components/header.php";
 include "./components/offcanvas.php";
 include "./components/navbar-transparent.php";

@@ -43,27 +43,24 @@ include "./components/navbar.php";
 			</div>
             
 			<div class="col-md-6 mt-4 mt-lg-0">
-				<div class="card border-0 rounded-0 bg-transparent"> 
-					<!-- Card Image -->
+				<div class="card border-0 rounded-0 bg-transparent">
 					<div class="card-image ms-5 ms-sm-8 overflow-hidden position-relative z-index-9">
 						<div class="reveal-item rounded" data-aos="reveal-item">
 							<div class="reveal-animation reveal-end reveal-primary aos" data-aos="reveal-end"></div>
-							<img class="w-100" src="assets/images/portfolio/02.jpg" alt="Portfolio image">
+							<img class="w-100" src="assets/images/and-bg.jpg" alt="Portfolio image">
 						</div>
-						<!-- Card Overlay duplicate-->
+                        
 						<div class="card-img-overlay d-flex flex-column ms-n5 ms-sm-n8">
 							<div class="card-text mt-2 mt-md-6">
-								<p class="display-9 mb-0 text-white font-alt fw-normal">Graphics Design</p>
-								<h5 class="display-8 display-lg-7 text-white-stroke">Sam Puller Magazine</h5>
+								<h5 class="display-8 display-lg-7 text-white-stroke">Akwa Niger Delta</h5>
 							</div>
 						</div>
 					</div>
-					<!-- Card Overlay -->
+                    
 					<div class="card-img-overlay d-flex flex-column">
 						<div class="card-text mt-2 mt-md-6">
-							<p class="display-9 mb-0 text-body font-alt fw-normal">Graphics Design</p>
-							<h5 class="display-8 display-lg-7 text-dark-stroke">Sam Puller Magazine</h5>
-							<a href="#" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
+							<h5 class="display-8 display-lg-7 text-dark-stroke">Akwa Niger Delta</h5>
+							<a href="and" class="btn btn-primary btn-line btn-sm position-relative z-index-9 card-element-hover">View Project</a>
 						</div>
 					</div>
 				</div>
