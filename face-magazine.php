@@ -15,6 +15,9 @@ include "./components/navbar-transparent.php";
                         <p class="text-white">— Our Brand</p>
                         <h1 class="display-6 display-lg-5 text-dark-stroke text-primary-shadow text-uppercase mb-0">FACE Nigeria Magazine</h1>
                         <span class="display-8 font-alt fw-normal">Est. 2015, ISSN 0256 071969</span>
+                        <ul class="list-unstyled list-group-inline lead">
+                            <li> <a class="text-instagram-gradient me-4" href="https://www.instagram.com/facemagazineng/">Instagram </a> </li>
+                        </ul>
                     </div>
                 </div>
             </div>

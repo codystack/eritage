@@ -10,13 +10,14 @@ include "./components/navbar.php";
             <div class="row d-flex justify-content-lg-between">
                 <div class="col-12">
                     <h1 class="display-3 caret-primary">
-                        <span class="typed" data-type-text="Hello&&Bonjour&&Hola&&你好&&Hallo&&Olá&&Ciao&&Asalaam alaikum&&Guten Tag&&Zdravstvuyte"></span>
+                        <span class="typed" data-type-text="Hello&&Bonjour&&Hola&&Hallo&&Aluá&&Tobra&&Tiébra&&Kedu"></span>
                     </h1>
                     <a href="#" class="display-8 text-dark"><u>hello@eritageafrica.com</u></a><br>
                     <a href="#" class="display-8 text-dark">+234 810-760-1636</a>
                     <ul class="list-unstyled list-group-inline lead">
                         <li> <a class="text-facebook me-4" href="https://www.facebook.com/facemagazineng">Facebook</a> </li>
                         <li> <a class="text-instagram-gradient me-4" href="https://www.instagram.com/eritage.africa/">Instagram </a> </li>
+                        <li> <a class="text-youtube-gradient me-4" href="https://www.youtube.com/@EritageAfrica">Youtube </a> </li>
                     </ul>
                 </div>
             </div>

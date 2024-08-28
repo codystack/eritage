@@ -15,6 +15,9 @@ include "./components/navbar-transparent.php";
                         <p class="text-white">— Our Brand</p>
                         <h1 class="display-6 display-lg-4 text-dark-stroke text-primary-shadow text-uppercase mb-0">Eritage Gift Co.</h1>
                         <span class="display-8 font-alt fw-normal">Find your special thing.</span>
+                        <ul class="list-unstyled list-group-inline lead">
+                            <li> <a class="text-instagram-gradient me-4" href="https://www.instagram.com/eritagegiftco/">Instagram </a> </li>
+                        </ul>
                     </div>
                 </div>
             </div>
