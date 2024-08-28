@@ -3,7 +3,7 @@
             <!-- Title -->
             <div class="row mb-5">
                 <div class="col-md-12 ">
-                    <h2 class="display-6 text-white-stroke text-center">Changing things with:</h2>
+                    <h2 class="display-6 text-white-stroke text-center">Brand we've worked with:</h2>
                 </div>
             </div>
             <!-- Client logo -->

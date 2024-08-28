@@ -13,7 +13,6 @@ include "./components/navbar.php";
                     <h1 class="display-4 text-primary">About <br>Eritage Africa</h1>
                     <p class="lead">Eritage Africa is a proudly Niger Delta creative media agency that is committed to promoting the peace and prosperity of the region through creative expressions and innovative solutions.</p>
                     <p class="lead">We work with a diverse range of clients, including individuals, companies, NGOs, communities, and government entities, to effectively communicate their authenticity and unique stories to their target audience or market.</p>
-                    <p></p>
                 </div>
             </div>
         </div>
