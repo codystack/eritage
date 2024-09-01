@@ -31,7 +31,20 @@
 				</li>
 			</li>
 			<li class="nav-item display-7 h5 position-relative">
-				<a href="projects" class="nav-link text-white-stroke d-block <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>">Our Projects</a>
+				<a href="services" class="nav-link text-white-stroke d-block <?php if($page=='Publishing Consultation' || $page=='Marketing Communication' || $page=='Brand Strategy' || $page=='Media Production' || $page=='Merchandising' || $page=='Services'){echo 'active';}?>">Our Services</a>
+				<a class="dropdown-toggle collapsed" data-bs-toggle="collapse" href="#services-dropdown-collapse" role="button" aria-expanded="false" aria-controls="services-dropdown-collapse"></a>
+				<li class="collapse" id="services-dropdown-collapse">
+				  <ul class="nav flex-column w-100 pb-4 pe-0 pe-lg-5">
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Publishing Consultation'){echo 'active';}?>" href="publishing-consultation">Publishing Consultation</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Marketing Communication'){echo 'active';}?>" href="marketing-communication">Marketing Communication, PR & Advertising</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Brand Strategy'){echo 'active';}?>" href="brand-strategy">Brand Strategy</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Media Production'){echo 'active';}?>" href="media-production">Media Production</a> </li>
+						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Merchandising'){echo 'active';}?>" href="merchandising">Merchandising</a> </li>
+					</ul>
+				</li>
+			</li>
+			<li class="nav-item display-7 h5 position-relative">
+				<a href="projects" class="nav-link text-white-stroke d-block <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>">Projects</a>
 				<a class="dropdown-toggle collapsed" data-bs-toggle="collapse" href="#projects-dropdown-collapse" role="button" aria-expanded="false" aria-controls="projects-dropdown-collapse"></a>
 				<li class="collapse" id="projects-dropdown-collapse">
 				  <ul class="nav flex-column w-100 pb-4 pe-0 pe-lg-5">
@@ -39,9 +52,6 @@
 						<li class="nav-item"> <a class="nav-link text-body <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a> </li>
 					</ul>
 				</li>
-			</li>
-			<li class="nav-item display-7 h5">
-				<a class="nav-link text-white-stroke" href="services">Services</a>
 			</li>
 			<li class="nav-item display-7 h5">
 				<a class="nav-link text-white-stroke" href="contact">Contact Us</a>

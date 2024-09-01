@@ -10,7 +10,7 @@ include "./components/navbar.php";
         <div class="container">
             <div class="row d-flex justify-content-lg-between">
                 <div class="col-12">
-                    <h1 class="display-4 text-dark-stroke text-primary-shadow">Our Projects</h1>
+                    <h1 class="display-4 text-dark-stroke text-primary-shadow">Inhouse Projects</h1>
                 </div>
             </div>
         </div>

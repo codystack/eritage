@@ -122,7 +122,7 @@ include "./components/navbar.php";
 				<div class="col-sm-6 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">06</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">TV and Radio <br> Production</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">TV and Radio <br> Productions</h4>
 					</div>
 				</div>
 

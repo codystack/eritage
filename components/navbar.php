@@ -33,14 +33,17 @@
 					</li>
 
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>" href="projects" id="project" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Projects</a>
-						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="project" >
+						<a class="nav-link dropdown-toggle <?php if($page=='Publishing Consultation' || $page=='Marketing Communication' || $page=='Brand Strategy' || $page=='Media Production' || $page=='Merchandising' || $page=='Services'){echo 'active';}?>" href="services" id="services" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Our Services</a>
+						<div class="dropdown-menu pb-3 pb-lg-0" aria-labelledby="services" >
 							<div class="d-block d-sm-flex">
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li> <a class="dropdown-item <?php if($page=='TOCOPPH'){echo 'active';}?>" href="tocopph">TOCOPPH</a> </li>
+									<li> <a class="dropdown-item <?php if($page=='Publishing Consultation'){echo 'active';}?>" href="publishing-consultation">Publishing Consultation</a></li>
+									<li> <a class="dropdown-item <?php if($page=='Marketing Communication'){echo 'active';}?>" href="marketing-communication">Marketing Communication, PR & Advertising</a></li>
+									<li> <a class="dropdown-item <?php if($page=='Brand Strategy'){echo 'active';}?>" href="brand-strategy">Brand Strategy</a></li>
 								</ul>
 								<ul class="list-unstyled w-100 pe-0 pe-lg-5">
-									<li> <a class="dropdown-item <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a> </li>
+									<li> <a class="dropdown-item <?php if($page=='Media Production'){echo 'active';}?>" href="media-production">Media Production</a></li>
+									<li> <a class="dropdown-item <?php if($page=='Merchandising'){echo 'active';}?>" href="merchandising">Merchandising</a></li>
 								</ul>
 							</div>
 							
@@ -55,9 +58,13 @@
 						</div>
 					</li>
 
-                    <li class="nav-item"><a class="nav-link <?php if($page=='Services'){echo 'active';}?>" href="services">Services</a></li>
-
-                    <!-- <li class="nav-item"><a class="nav-link <?php if($page=='FAQ'){echo 'active';}?>" href="faq">FAQ's</a></li> -->
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle <?php if($page=='TOCOPPH' || $page=='Akwa Niger Delta' || $page=='Projects'){echo 'active';}?>" href="#" id="projectMenu" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects</a>
+						<ul class="dropdown-menu" aria-labelledby="projectMenu">
+							<li> <a class="dropdown-item <?php if($page=='TOCOPPH'){echo 'active';}?>" href="tocopph">TOCOPPH</a></li>
+							<li> <a class="dropdown-item <?php if($page=='Akwa Niger Delta'){echo 'active';}?>" href="and">Akwa Niger Delta</a></a></li>
+						</ul>
+					</li>
 
 					<li class="nav-item"><a class="nav-link <?php if($page=='Contact'){echo 'active';}?>" href="contact">Contact Us</a></li>
 				</ul>

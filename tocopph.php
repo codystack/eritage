@@ -6,7 +6,7 @@ include "./components/navbar-transparent.php";
 ?>
 <main>
 
-    <section class="bg-parallax bg-dark-overlay-6 h-500 vh-md-100 d-flex pb-5" style="background:url(assets/images/tocopph-bgx.jpeg) no-repeat center center; background-size:cover;">
+    <section class="bg-parallax bg-dark-overlay-6 h-500 vh-md-100 d-flex pb-5" style="background:url(assets/images/about-imgs.jpg) no-repeat center center; background-size:cover;">
         <div class="container h-100 position-relative">
             <div class="row">
                 <div class="col-12">

@@ -22,7 +22,7 @@ include "./components/navbar.php";
         <div class="container-fluid p-0">
             <div class="row g-0">
                 <div class="col-md-10 position-relative">
-                    <img class="w-100" src="assets/images/about-imgs.jpg" alt="About image">
+                    <img class="w-100" src="assets/images/fish.jpeg" alt="About image">
                 </div>
             </div>
         </div>
