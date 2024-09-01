@@ -87,77 +87,40 @@ include "./components/navbar.php";
 				<div class="col-sm-12 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">01</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Brand <br> Strategy</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Publishing Consultation (digital/print)</h4>
+						<a href="publishing-consultation" class="btn btn-light btn-line">Learn more</a>
 					</div>
 				</div>
 				
 				<div class="col-sm-6 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">02</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Marketing <br> Communication</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Marketing Communication, PR and Advertising</h4>
+						<a href="marketing-communication" class="btn btn-light btn-line">Learn more</a>
 					</div>
 				</div>
 				
 				<div class="col-sm-6 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">03</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Designing, <br> Publishing and Printing</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Brand Strategy</h4>
+						<a href="brand-strategy" class="btn btn-light btn-line">Learn more</a>
 					</div>
 				</div>
 
 				<div class="col-sm-6 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">04</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Script/ <br> Copywriting</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Media Production (content development/audio/video)</h4>
+						<a href="media-production" class="btn btn-light btn-line">Learn more</a>
 					</div>
 				</div>
 
 				<div class="col-sm-6 col-md-4 mb-5">
 					<div class="text-start position-relative">
 						<h2 class="display-4 mb-0 text-light-stroke opacity-2">05</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Social Media <br> Campaigns</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4 mb-5">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">06</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">TV and Radio <br> Productions</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4 mb-5">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">07</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Merchandising/ <br> Concierge Services</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4 mb-5">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">08</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Event Planning and <br> Facilitation</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4 mb-5">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">09</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">PR and Advertising <br> Consultation</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4 mb-5">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">10</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Email Marketing and Email <br> Newsletter Management</h4>
-					</div>
-				</div>
-
-				<div class="col-sm-6 col-md-4">
-					<div class="text-start position-relative">
-						<h2 class="display-4 mb-0 text-light-stroke opacity-2">11</h2>
-						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Print and Digital <br> Publishing Consultation</h4>
+						<h4 class="text-white position-absolute start-0 top-0 mt-0 mt-sm-3 ps-6 d-block">Merchandising</h4>
+						<a href="merchandising" class="btn btn-light btn-line">Learn more</a>
 					</div>
 				</div>
 			</div>
