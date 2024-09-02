@@ -44,7 +44,7 @@ include "./components/navbar.php";
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 class="display-4 text-white mb-8 text-center ">The mountain<span class="text-white-stroke d-block">Are calling</span></h2>
+                    <h2 class="display-4 text-white mb-8 text-center ">Media production<span class="text-white-stroke d-block">Demo</span></h2>
                 </div>
                 <div class="col-sm-12 position-relative">
                     <div class="position-absolute top-50 start-50 translate-middle py-9">
