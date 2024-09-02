@@ -81,6 +81,7 @@
 <script src="assets/vendor/ityped/index.js"></script>
 <script src="assets/vendor/glightbox/js/glightbox.js"></script>
 <script src="assets/vendor/sticky-js/sticky.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.js"></script>
 
 <script src="assets/js/functions.js"></script>
 

@@ -52,12 +52,12 @@ include "./components/navbar.php";
                             <li class="list-group-item"><i class="fas fa-check"></i><strong>Sustainability:</strong> Partner with us for long-term brand sustainability and success.</li>
                         </ul>
                         <p>Through these tailored services and benefits, clients can expect a strategic partner dedicated to realizing their brand’s full potential in the market.</p>
-                        <h6><a href="https://posts.gle/qn1jdT" target="_blank" class="text-primary">Click here</a> to see a sample file</h6>
+                        <h6><a href="https://posts.gle/qn1jdT" target="_blank" class="text-primary">Click here</a> to see a sample.</h6>
                     </div>
                 </div>
                 <div class="col-md-6 order-1 order-md-last">
-                    <a class="mb-4 d-block" data-glightbox data-gallery="portfolio-req" href="assets/images/brandstrategy1.jpg">
-                        <img class="rounded" src="assets/images/brandstrategy1.jpg" alt="">
+                    <a class="mb-4 d-block" data-glightbox data-gallery="portfolio-req" href="assets/images/marketingcomm_1.jpeg">
+                        <img class="rounded" src="assets/images/marketingcomm_1.jpeg" alt="">
                     </a>
                 </div>
             </div>
